@@ -218,7 +218,7 @@ hi mkdHeading guifg=#fcc25d
 "
 "
 "
-hi vimOption guifg=#9cb375
+hi vimOption guifg=#000000
 hi gitcommitDiscardedType guifg=#fb3475
 hi gitcommitSelectdType guifg=#7cb375
 hi gitcommitUnmergedFile guifg=#fcc25d
